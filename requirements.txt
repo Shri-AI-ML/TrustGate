@@ -1,0 +1,12 @@
+streamlit
+faiss-cpu
+sentence-transformers
+transformers
+torch
+pypdf
+scikit-learn
+numpy
+pandas
+regex
+tqdm
+accelerate

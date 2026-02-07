@@ -1,0 +1,25 @@
+Clinical Guidelines for Type 2 Diabetes Management (2024 Edition)
+Section 1: Diagnosis Criteria
+Type 2 Diabetes is diagnosed when:
+• Fasting Plasma Glucose ≥ 126 mg/dL
+• HbA1c ≥ 6.5%
+• Random Plasma Glucose ≥ 200 mg/dL with symptoms
+Section 2: Patient Case Record
+Patient Name: Rajiv Sharma
+Age: 45 years
+Diagnosis: Type 2 Diabetes
+Blood Pressure: 120/80 mmHg
+HbA1c: 7.2%
+Fasting Glucose: 135 mg/dL
+Medication Prescribed: Metformin 500 mg twice daily
+Section 3: Treatment Protocol
+First-line treatment for Type 2 Diabetes:
+• Metformin
+• Lifestyle modification
+• Regular glucose monitoring
+Patients without diabetes should have:
+• HbA1c below 5.7%
+• Fasting glucose below 100 mg/dL
+Section 4: Risk Notes
+Hypertension is defined as blood pressure ≥ 140/90 mmHg.
+Metformin should not be prescribed to patients with severe renal impairment.

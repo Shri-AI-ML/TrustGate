@@ -1,0 +1,11 @@
+Cardiology Evaluation Report
+
+Patient Name: John Doe
+Age: 52 years
+Diagnosis: Coronary Artery Disease
+Blood Pressure: 150/95 mmHg
+Cholesterol Level: 240 mg/dL
+Medication Prescribed: Atorvastatin 20 mg daily
+
+Notes:
+Hypertension is defined as blood pressure ≥ 140/90 mmHg.

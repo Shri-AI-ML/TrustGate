@@ -1,0 +1,8 @@
+Oncology Case Summary
+
+Patient Name: Maria Smith
+Age: 45 years
+Diagnosis: Stage II Breast Cancer
+Tumor Size: 3 cm
+Treatment Plan: Chemotherapy followed by radiation therapy
+White Blood Cell Count: 6000 cells/mcL
