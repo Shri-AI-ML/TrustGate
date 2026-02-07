@@ -1,4 +1,4 @@
-# 🛡️ AI Fact Verification & Citation System
+# 🛡️ TrustGate – AI Fact Verification & Citation System
 
 An enterprise-grade AI-assisted Fact-Checking & Citation Engine designed to detect hallucinations in LLM-generated outputs using a hybrid Semantic + Numeric verification approach.
 
